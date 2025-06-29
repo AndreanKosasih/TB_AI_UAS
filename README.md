@@ -101,4 +101,5 @@ plt.show()
 
 ## 🧑‍💻 Kontributor
 
-- 📍 Proyek oleh: [Nama Kamu]
+- 📍 Proyek oleh: Andrean kosasih
+-                 m.jamil alfadilah
